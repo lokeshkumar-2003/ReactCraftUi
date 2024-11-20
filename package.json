@@ -1,0 +1,34 @@
+{
+  "name": "autocraft-ui",
+  "version": "1.0.0",
+  "description": "A reusable React component for managing and displaying quantity counters on websites, with support for increment, decrement, and customizable styles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshkumar-2003/ReactCraftUi.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "jsx",
+    "react-component",
+    "counter-component",
+    "increment-counter",
+    "custom-style",
+    "state-management",
+    "UI-component",
+    "reusable-component",
+    "npm-package",
+    "hooks",
+    "react-hooks"
+  ],
+  "author": "Lokesh kumar, Balaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshkumar-2003/ReactCraftUi/issues"
+  },
+  "homepage": "https://github.com/lokeshkumar-2003/ReactCraftUi#readme"
+}
